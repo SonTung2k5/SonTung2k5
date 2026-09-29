@@ -24,6 +24,6 @@ Digital IC Design, focusing on RTL design, and FPGA/SoC platforms.
 ### 📈 Activity & Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonTung2k5&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonTung2k5&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TungSon&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungSon&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
