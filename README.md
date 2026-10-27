@@ -1,74 +1,64 @@
-<div align="center">
+<h1 align="center">Hi, I'm Luong Son Tung 👋</h1>
 
-# Luong Son Tung
+<p align="center">
+  Learning digital IC design, one project at a time.<br />
+  <strong>RTL Design · FPGA & SoC · Linux Networking</strong>
+</p>
 
-**Digital IC Design · RTL · FPGA & SoC**
+<p align="center">
+  <a href="mailto:sntngluong@gmail.com"><img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact me by email" /></a>
+  <a href="https://github.com/SonTung2k5?tab=repositories"><img src="https://img.shields.io/badge/Repositories-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse my GitHub repositories" /></a>
+</p>
 
-Learning digital design and Linux networking.
+---
 
-Verilog &nbsp; / &nbsp; AXI-based peripherals &nbsp; / &nbsp; Linux Networking
+### A little about me
 
-[![Email](https://img.shields.io/badge/Email-Contact_me-0891B2?style=flat-square&logo=gmail&logoColor=white)](mailto:sntngluong@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SonTung2k5-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/SonTung2k5)
+I'm interested in **digital IC design** and how hardware and software work together on **FPGA/SoC platforms**. This profile is a place to share what I build, practice, and learn along the way.
 
-</div>
+- **Practicing:** Verilog, simulation, and FPGA development.
+- **Exploring:** AXI-based peripherals and SoC integration.
+- **Learning:** Linux networking.
 
-<br />
+### Tools & technologies
 
-## / About
+Tools and technologies I use or am getting familiar with:
 
-Hi, I'm **Luong Son Tung**. I'm learning about **digital IC design, RTL development, and FPGA/SoC platforms**, with an interest in AXI-based peripherals and Linux networking.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux&amp;theme=dark" alt="C, C++, and Linux" height="44" />
+</p>
 
-I use this space to share what I'm working on and keep track of what I learn along the way.
-
-## / Currently Exploring
-
-| &nbsp; | Focus | What I'm learning |
-| :---: | :--- | :--- |
-| **01** | **RTL & FPGA** | Writing Verilog, running simulations, and getting familiar with FPGA tools. |
-| **02** | **SoC Integration** | Building AXI-based peripherals and understanding how hardware and software interact. |
-| **03** | **Linux Networking** | Learning how networking works on Linux. |
-
-## / Tools & Technologies
-
-Some tools and technologies I use or am learning:
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Verilog-0E7490?style=flat-square" alt="Verilog" />
   <img src="https://img.shields.io/badge/FPGA-0E7490?style=flat-square" alt="FPGA" />
   <img src="https://img.shields.io/badge/AXI4-0E7490?style=flat-square" alt="AXI4" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-334155?style=flat-square" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Linux_Networking-334155?style=flat-square" alt="Linux Networking" />
 </p>
 
-| Area | Technologies & Tools |
+| Area | Tools & Technologies |
 | :--- | :--- |
 | **RTL & Simulation** | Verilog · QuestaSim |
 | **FPGA Development** | AMD Xilinx Vivado · Vitis · Intel Quartus Prime |
 | **Interconnects & Data Transfer** | AXI4 · AXI-Stream · PCIe DMA |
 | **Peripheral Interfaces** | UART · SPI · I2C |
-| **Software & Systems** | C/C++ · Linux Networking |
+| **Software & Networking** | C/C++ · Linux Networking |
 
-## / GitHub Activity
+### GitHub activity
 
 <details>
-<summary><b>A look at my public repositories</b></summary>
+<summary>View my public repository statistics</summary>
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SonTung2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2&amp;icon_color=0891B2" alt="GitHub activity statistics for SonTung2k5" width="460" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonTung2k5&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2" alt="Most used languages in SonTung2k5's public repositories" width="340" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonTung2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2&amp;icon_color=0891B2" alt="GitHub activity statistics for SonTung2k5" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonTung2k5&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2" alt="Language usage across public repositories" width="340" />
+</p>
 
 </details>
 
-<br />
-
 ---
 
-<div align="center">
-
-**Get in touch**
-
-Always happy to learn from others and exchange ideas.
-
-[sntngluong@gmail.com](mailto:sntngluong@gmail.com)
-
-</div>
+<p align="center">
+  Happy to exchange ideas and learn from others.<br />
+  <a href="mailto:sntngluong@gmail.com">sntngluong@gmail.com</a>
+</p>
