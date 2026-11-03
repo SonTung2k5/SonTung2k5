@@ -50,15 +50,16 @@ Tools and technologies I use or am getting familiar with:
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonTung2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2&amp;icon_color=0891B2" alt="GitHub activity statistics for SonTung2k5" width="460" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonTung2k5&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2" alt="Language usage across public repositories" width="340" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=SonTung2k5&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2&amp;icon_color=0891B2"
+    alt="GitHub activity statistics for SonTung2k5"
+    width="460"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SonTung2k5&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=0891B2"
+    alt="Language usage across public repositories"
+    width="340"
+  />
 </p>
 
 </details>
-
----
-
-<p align="center">
-  Happy to exchange ideas and learn from others.<br />
-  <a href="mailto:sntngluong@gmail.com">sntngluong@gmail.com</a>
-</p>
